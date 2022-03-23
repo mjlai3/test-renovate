@@ -150,8 +150,7 @@
     "webpack": "~4.40.0",
     "webpack-cli": "^3.3.6",
     "webpack-merge": "^5.8.0",
-    "whatwg-fetch": "^3.6.2",
-    "zendesk-i18n-image-generator": "zendesk/zendesk_i18n_image_generator"
+    "whatwg-fetch": "^3.6.2"
   },
   "husky": {
     "hooks": {
