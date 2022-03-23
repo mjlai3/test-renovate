@@ -1,0 +1,51 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env
+.env.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+ts-jest.log*
+
+#locale json files
+locales/*.json
+locales/cldr
+/i18n/*.json
+/i18n/cldr
+!/i18n/locales.json
+
+# local configuration
+src/util/config/config.local.development.json
+
+# so that we never add this to the repo
+package-lock.json
+
+# Stores the googleCredentials and configuration for the generateScreenshot script
+# See docs/i18n.md for more info
+.private
+
+# Webpack dist directories
+/public/dist/**
+/public/admin/**
+/public/static-content/**
+
+# Jest
+/coverage
+
+# IDE
+.idea
+answer-bot-flow-composer-frontend.iml
