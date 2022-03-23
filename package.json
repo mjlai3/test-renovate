@@ -64,7 +64,7 @@
     "react": "16.14.0",
     "react-apollo-network-status": "5.1.0",
     "react-dom": "16.14.0",
-    "react-flow-renderer": "github:zendesk/react-flow.git#d8b5ff1df67087c671c033f97deef3af5e191e53",
+    "react-flow-renderer": "github:zendesk/react-flow.git#b9cbb9143f7bd73ee6739aeaf2c4b5873e498089",
     "react-router-dom": "5.3.0",
     "react-spring": "9.4.3",
     "react-use": "17.3.2",
