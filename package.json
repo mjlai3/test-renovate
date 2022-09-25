@@ -68,7 +68,7 @@
     "react-router-dom": "5.3.0",
     "react-spring": "9.4.3",
     "react-use": "17.3.2",
-    "remeda": "0.0.28",
+    "remeda": "0.2.1",
     "rollbar": "2.24.0",
     "styled-components": "5.3.3",
     "true-myth": "4.1.1",

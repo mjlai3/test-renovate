@@ -11079,10 +11079,10 @@ relay-runtime@12.0.0:
     fbjs "^3.0.0"
     invariant "^2.2.4"
 
-remeda@0.0.28:
-  version "0.0.28"
-  resolved "https://registry.yarnpkg.com/remeda/-/remeda-0.0.28.tgz#b6fc042164a5ed2c959c97d49eb6fa00ca80e9de"
-  integrity sha512-ak/fqh9EOUIaIPzizAtaOy4f+b9893N/gk/q4lT9dioNKYWYKVf66rrcyUoxHpaI50wl590czu63a7Aw5zn0Uw==
+remeda@0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/remeda/-/remeda-0.2.1.tgz#ad9f024971b328f20a1da78866efbd7b775dee67"
+  integrity sha512-y0nehKFF5w88h5gHVctFtVdaQLj1juzdowewSS3vzXhuA3yuAmkwjDAYDiE5GJjgdmWcgz207iVPhWIhAJtLFA==
 
 remedial@^1.0.7:
   version "1.0.8"
