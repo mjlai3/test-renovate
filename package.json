@@ -76,10 +76,10 @@
     "ulid": "2.3.0"
   },
   "devDependencies": {
-    "@babel/core": "7.17.5",
-    "@babel/preset-env": "7.16.11",
-    "@babel/preset-react": "7.16.7",
-    "@babel/preset-typescript": "7.16.7",
+    "@babel/core": "7.25.9",
+    "@babel/preset-env": "7.25.9",
+    "@babel/preset-react": "7.25.9",
+    "@babel/preset-typescript": "7.25.9",
     "@graphql-codegen/cli": "2.6.2",
     "@graphql-codegen/fragment-matcher": "3.2.1",
     "@graphql-codegen/introspection": "2.1.1",
