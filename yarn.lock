@@ -3171,10 +3171,10 @@
     "@babel/runtime" "^7.8.4"
     "@reach/auto-id" "^0.16.0"
 
-"@zendeskgarden/css-variables@6.4.5":
-  version "6.4.5"
-  resolved "https://registry.yarnpkg.com/@zendeskgarden/css-variables/-/css-variables-6.4.5.tgz#b51a50046f42a11b8d1bfec46e100b02fd6fc1d9"
-  integrity sha512-vX7vDJVQoyYFUshYXXX5QE2fL9M6K2bnxTeB2IVyEIaGRYEi20xjoY6cuO1uAQ7RaIRGCSyZFKgWW+/IrlQMKg==
+"@zendeskgarden/css-variables@6.4.7":
+  version "6.4.7"
+  resolved "https://registry.yarnpkg.com/@zendeskgarden/css-variables/-/css-variables-6.4.7.tgz#bd6658d82954e04f584a4b0027164d0c9dc1b677"
+  integrity sha512-6SnBtR+0Al7DVzJOgOmkRoUrGSqF4Q3zOrELHPtr9YciNbQmU1JEX3px2cweDQgUbcdxDeLA/ELffPzHSbF5XA==
 
 "@zendeskgarden/react-accordions@8.49.0":
   version "8.49.0"
