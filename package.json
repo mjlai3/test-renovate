@@ -33,7 +33,7 @@
     "@rollbar/react": "0.8.0",
     "@typescript-eslint/eslint-plugin": "5.14.0",
     "@typescript-eslint/parser": "5.14.0",
-    "@zendeskgarden/container-keyboardfocus": "0.4.15",
+    "@zendeskgarden/container-keyboardfocus": "0.4.16",
     "@zendeskgarden/css-variables": "6.4.5",
     "@zendeskgarden/react-accordions": "8.49.0",
     "@zendeskgarden/react-avatars": "8.49.0",

@@ -3095,7 +3095,15 @@
   dependencies:
     "@babel/runtime" "^7.8.4"
 
-"@zendeskgarden/container-keyboardfocus@0.4.15", "@zendeskgarden/container-keyboardfocus@^0.4.7":
+"@zendeskgarden/container-keyboardfocus@0.4.16":
+  version "0.4.16"
+  resolved "https://registry.yarnpkg.com/@zendeskgarden/container-keyboardfocus/-/container-keyboardfocus-0.4.16.tgz#8097ef35ce881248b7d3c266dbd81bf688bc88ac"
+  integrity sha512-uKbXJ5Xn+SPtx5EDIIKWvLRuQQk3uo6MYYKFVauyq0gVDU/RfKv5LnUj3k2ZzyD7nLk6+tRGoq0jJ6LTH993dA==
+  dependencies:
+    "@babel/runtime" "^7.8.4"
+    "@zendeskgarden/container-utilities" "^0.7.1"
+
+"@zendeskgarden/container-keyboardfocus@^0.4.7":
   version "0.4.15"
   resolved "https://registry.yarnpkg.com/@zendeskgarden/container-keyboardfocus/-/container-keyboardfocus-0.4.15.tgz#a7be09f79f45e381084febc0c7d6e81ecdb6aae6"
   integrity sha512-vbyxJY9vfhTOwYbVzcKIwZfDFyNmobkzAZ62Qw+lQOStKaD7MON5e0IjsZrYT5CDwy8J7NJkatdWORjzxqsxpw==
